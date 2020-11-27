@@ -1,0 +1,21 @@
+{
+	"width": 800,
+	"height": 1000,
+	"type": "MANUAL",
+	"countries": [
+		{
+			"id": 1,
+			"name": "Italy",
+			"x": 100,
+			"y": 100,
+			"enemy_ids": [2]
+		},
+		{
+			"id": 2,
+			"name": "Germany",
+			"x": 400,
+			"y": 200,
+			"enemy_ids": [1]
+		}
+	]
+}
